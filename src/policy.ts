@@ -1,0 +1,1 @@
+export const MAX_LENGTH_STORABLE_REPOSITORY = 4;
